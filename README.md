@@ -15,3 +15,4 @@ Modern digital lifestyles involve extensive screen exposure — social media, st
 - `notebooks/`: Jupyter notebooks for EDA and modeling.
 - `src/`: Source code for data processing and model training.
 - `app/`: Web application files (Flask/Streamlit).
+# Screentimewellness
